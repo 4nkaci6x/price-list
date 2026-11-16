@@ -1,0 +1,6 @@
+# Output files we can always make again
+price-list.txt
+
+# Clutter from macOS and Python
+.DS_Store
+__pycache__/
